@@ -11,4 +11,4 @@
 
 # 页面
 
-![canvas](C:\Users\lishuolan\Desktop\canvas.png)
+![](C:\Users\lishuolan\Desktop\canvas.png)
